@@ -1,3 +1,5 @@
+%Author: Rahul Mohan, 2013
+
 %Once you align your reads using BWA, you will get an output in the .sam
 %format. Convert it to a txt (duplicate it and just change the extension
 %from .sam to .txt) and load it into Excel. The fifth column contains phred
